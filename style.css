@@ -1,0 +1,64 @@
+/*
+Theme Name: Real Estate Theme
+Author: Prathmesh Pol
+Description: A simple real estate WordPress theme.
+version:1.0
+*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li,
+a {
+  list-style: none;
+}
+.hero {
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero .contact-form {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.amenities {
+  display: flex;
+  padding: 50px;
+  background-color: #f4f4f4;
+}
+
+.amenities img {
+  max-width: 50%;
+}
+
+.amenities .details {
+  padding-left: 20px;
+}
+
+.carousel-section {
+  padding: 50px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer a {
+  color: #f9a825;
+}
