@@ -10,7 +10,7 @@ Free Responsive Bootstrap 5 Business & Corporate Website Template
 Additionally, Cental is a fully responsive template built using modern technologies such as Bootstrap 5, HTML5, and CSS3. The template includes several exclusive UIs for customer and visitor satisfaction. It has a sticky top navigation bar, including a dropdown menu bar. This multipage theme has a split header with a car reservation form UI. There are also call-to-action buttons, on-load animations, sliders, geolocation, a contact form UI, a blog section, fun fact counters, a testimonial carousel, back-to-top button, breadcrumbs, a newsletter subscription form UI, a 404 page, and many more extraordinary UIs. It offers a perfect blend of colors, designs, and animation with eye-soothing navigation across the page. This is a mobile-first design, ensuring seamless access on all devices.
 
 
-Key Features
+## Key Features
 Bootstrap 5
 HTML5 & CSS3
 Sliders
@@ -38,13 +38,15 @@ Call-to-Action Buttons
 Multipurpose Design
 Cross-Browser Compatible
 Newsletter Subscription Form UI
-In the Box
+
+## In the Box
 10+ HTML Pages
 HTML & CSS
 All Demo Images
 JavaScript Source Files
-Library & Plugins
-Library & Plugins
+
+
+## Library & Plugins
 Bootstrap 5
 jQuery
 Google Fonts
